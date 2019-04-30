@@ -6,5 +6,6 @@ public class GitTest {
     }
     public void test(){
         System.out.println(333333333);
+        System.out.println(66666);
     }
 }
